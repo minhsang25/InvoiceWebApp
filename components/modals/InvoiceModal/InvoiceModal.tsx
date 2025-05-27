@@ -191,7 +191,7 @@ const InvoiceModal = () => {
           {/* Bill from */}
           <div className="flex flex-col gap-12 pr-4 overflow-y-auto sm:pr-6">
             <div className="flex flex-col gap-6">
-              <h3 className="text-xs font-bold text-[#7C5DFA]">Bill From</h3>
+              <h3 className="text-xs font-bold text-[#5d8cfa]">Bill From</h3>
               <Input
                 id="streetFrom"
                 label="Street Address"
@@ -231,7 +231,7 @@ const InvoiceModal = () => {
             </div>
             {/* Bill to */}
             <div className="flex flex-col gap-6">
-              <h3 className="text-xs font-bold text-[#7C5DFA]">Bill To</h3>
+              <h3 className="text-xs font-bold text-[#5d8cfa]">Bill To</h3>
               <Input
                 id="clientName"
                 label="Client’s Name"

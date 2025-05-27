@@ -61,7 +61,7 @@ const Input: React.FC<CheckProps> = ({ id, label, checked }) => {
         checked={checked}
         onChange={onChange}
       />
-      <div className="block absolute top-0 left-0 h-4 w-4 bg-[#DFE3FA] dark:bg-[#1E2139] border border-transparent hover:border-[#7C5DFA] rounded transition peer-checked:border-[#7C5DFA] peer-checked:bg-[#7C5DFA]"></div>
+      <div className="block absolute top-0 left-0 h-4 w-4 bg-[#DFE3FA] dark:bg-[#1E2139] border border-transparent hover:border-[#5d8cfa] rounded transition peer-checked:border-[#5d8cfa] peer-checked:bg-[#5d8cfa]"></div>
       <div className="absolute hidden top-[3px] left-[2.5px] peer-checked:block">
         <Check />
       </div>

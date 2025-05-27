@@ -45,7 +45,7 @@ const HeaderControls: React.FC<HeaderControlsProps> = ({
         <Filter />
         <button
           onClick={createNewInvoice}
-          className="flex gap-2 sm:gap-4 items-center p-1.5 pr-3 sm:p-2 sm:pr-4 text-xs font-bold capitalize rounded-full transition text-white bg-[#7C5DFA] hover:bg-[#9277FF]"
+          className="flex gap-2 sm:gap-4 items-center p-1.5 pr-3 sm:p-2 sm:pr-4 text-xs font-bold capitalize rounded-full transition text-white bg-[#5d8cfa] hover:bg-[#9277FF]"
         >
           <span className="p-2.5 bg-white rounded-full">
             <Plus />

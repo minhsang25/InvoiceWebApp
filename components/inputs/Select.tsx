@@ -64,7 +64,7 @@ const CountrySelect: React.FC<SelectProps> = ({
             ...theme.colors,
             borderRadius: "4px",
             borderWidth: "1px",
-            primary: "#7C5DFA",
+            primary: "#5d8cfa",
             primary25: "transparent",
           },
         })}

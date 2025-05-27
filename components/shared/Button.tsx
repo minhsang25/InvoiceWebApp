@@ -33,7 +33,7 @@ const Button: React.FC<ButtonProps> = ({
       className={cn(
         "relative flex gap-4 items-center justify-center px-5 sm:px-6 py-4 text-xs font-bold capitalize rounded-full transition disabled:cursor-not-allowed disabled:bg-opacity-50 disabled:hover:bg-opacity-50 text-[#7E88C3] bg-baseBg hover:bg-baseBgHover",
         color === "red" && "text-white bg-[#ec5757] hover:bg-[#FF9797]",
-        color === "purple" && "text-white bg-[#7C5DFA] hover:bg-[#9277FF]",
+        color === "purple" && "text-white bg-[#5d8cfa] hover:bg-[#9277FF]",
         color === "grey" &&
           "text-[#7E88C3] dark:text-[#DFE3FA] bg-defaultBg hover:bg-defaultHoverBg",
         color === "darkGrey" && "text-secondary bg-grey hover:bg-greyHover",
