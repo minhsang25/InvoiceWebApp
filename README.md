@@ -26,6 +26,7 @@ A fullstack invoice app built with Nextjs. This project is just for studing DATA
 - [x] Toggle light and dark mode
 
 ## Preview
+
 <p float="left">
  <img src="https://github.com/minhsang25/InvoiceWebApp/blob/main/images/home.png?raw=true" width="400">
  <img src="https://github.com/minhsang25/InvoiceWebApp/blob/main/images/home-dark.png?raw=true" width="400">
