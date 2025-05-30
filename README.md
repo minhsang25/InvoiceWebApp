@@ -1,24 +1,4 @@
 <h1 align="center">Invoice app</h1>
-<div align="center">
-  <h3>
-    <a href="https://invoice-app-fe-mentor.vercel.app/" color="white">
-      Live
-    </a>
-    <span> | </span>
-    <a href="https://github.com/JaneMoroz/invoice-app">
-      Solution
-    </a>
-   <span> | </span>
-    <a href="https://www.frontendmentor.io/challenges/invoice-app-i7KaLTQjl">
-      Challenge
-    </a>
-  </h3>
-</div>
-<div align="center">
-   Solution for a challenge from  <a href="https://www.frontendmentor.io/" target="_blank">frontendmentor.io</a>.
-</div>
-<br/>
-<br/>
 
 <div align="center"><img src="https://res.cloudinary.com/dz209s6jk/image/upload/v1614355720/Challenges/v760dr4mqyro0xey3dr3.jpg"></img></div>
 <br/>
@@ -26,7 +6,7 @@
 
 ## 🚀 Technologies used:
 
-<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Nextjs icon" height="30" /><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript icon" height="30" /><img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux icon" height="30" /><img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white" alt="React hook form icon" height="30" /><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongo icon" height="30" /><img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma icon" height="30" />
+<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Nextjs icon" height="30" /><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript icon" height="30" /><img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux icon" height="30" /><img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white" alt="React hook form icon" height="30" /><img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma icon" height="30" />
 
 - [x] [next-auth](https://next-auth.js.org)
 - [x] [next-themes](https://github.com/pacocoursey/next-themes#readme)
