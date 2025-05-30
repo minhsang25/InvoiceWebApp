@@ -8,18 +8,10 @@
 
 <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Nextjs icon" height="30" /><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript icon" height="30" /><img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux icon" height="30" /><img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white" alt="React hook form icon" height="30" /><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongo icon" height="30" /><img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma icon" height="30" />
 
-- [x] [next-auth](https://next-auth.js.org)
-- [x] [next-themes](https://github.com/pacocoursey/next-themes#readme)
-- [x] [query-string](https://github.com/sindresorhus/query-string)
-- [x] [react-datepicker](https://www.npmjs.com/package/react-datepicker)
-- [x] [react-hot-toast](https://react-hot-toast.com)
-- [x] [react-select](https://react-select.com/home)
-- [x] [react-spinners](https://www.davidhu.io/react-spinners/)
-- [x] [world-countries](https://www.npmjs.com/package/world-countries)
-
 ## About The Project
 
-A fullstack invoice app built with Nextjs.
+A fullstack invoice app built with Nextjs. This project is just for studing DATABASE SYSTEM DESIGN, MANAGEMENT AND ADMINISTRATION course - MSIS4013.P21.CTTT - UIT.
+
 <br/>
 
 ## Function:
