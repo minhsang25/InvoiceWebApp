@@ -1,6 +1,6 @@
 <h1 align="center">Invoice app</h1>
 
-<div align="center"><img src="https://res.cloudinary.com/dz209s6jk/image/upload/v1614355720/Challenges/v760dr4mqyro0xey3dr3.jpg"></img></div>
+<div align="center"><img src="https://github.com/minhsang25/InvoiceWebApp/blob/main/images/home.png?raw=true"></img></div>
 <br/>
 <br/>
 
@@ -35,14 +35,18 @@ A fullstack invoice app built with Nextjs.
 
 ## Preview
 <p float="left">
- <img src="https://github.com/JaneMoroz/invoice-app/blob/main/images/home-dark.jpg?raw=true" width="400">
- <img src="https://github.com/JaneMoroz/invoice-app/blob/main/images/home-light.jpg?raw=true" width="400">
+ <img src="https://github.com/minhsang25/InvoiceWebApp/blob/main/images/home.png?raw=true" width="400">
+ <img src="https://github.com/minhsang25/InvoiceWebApp/blob/main/images/home-dark.png?raw=true" width="400">
 </p>
 <p float="left">
- <img src="https://github.com/JaneMoroz/invoice-app/blob/main/images/auth-dark.jpg?raw=true" width="400">
- <img src="https://github.com/JaneMoroz/invoice-app/blob/main/images/new-dark.jpg?raw=true" width="400">
+  <img src="https://github.com/minhsang25/InvoiceWebApp/blob/main/images/register.png?raw=true" width="400">
+  <img src="https://github.com/minhsang25/InvoiceWebApp/blob/main/images/login.png?raw=true" width="400">
 </p>
 <p float="left">
- <img src="https://github.com/JaneMoroz/invoice-app/blob/main/images/invoice-dark.jpg?raw=true" width="400">
- <img src="https://github.com/JaneMoroz/invoice-app/blob/main/images/edit-dark.jpg?raw=true" width="400">
+  <img src="https://github.com/minhsang25/InvoiceWebApp/blob/main/images/new-invoice.png?raw=true" width="400">
+  <img src="https://github.com/minhsang25/InvoiceWebApp/blob/main/images/invoice.png?raw=true" width="400">
+</p>
+<p float="left">
+  <img src="https://github.com/minhsang25/InvoiceWebApp/blob/main/images/delete.png?raw=true" width="400">
+  <img src="https://github.com/minhsang25/InvoiceWebApp/blob/main/images/edit.png?raw=true" width="400">
 </p>
