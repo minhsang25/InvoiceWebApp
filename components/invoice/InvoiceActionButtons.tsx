@@ -36,7 +36,7 @@ const InvoiceActionButtons: React.FC<InvoiceActionButtonsProps> = ({
   }, [dispatch, invoice.id]);
 
   const handleStatusUpdate = useCallback(() => {
-    dispatch(updateStatus(invoice.id))
+    dispatch(updateStatus(invoice.id.toString()))
       .then(unwrapResult)
       .then(() => {
         router.refresh();

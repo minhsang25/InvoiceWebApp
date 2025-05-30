@@ -18,7 +18,7 @@ const DeleteModal = () => {
   const [isOpen, isLoading, invoiceIdToDelete] = useDeleteModal();
 
   const handleDelete = useCallback(() => {
-    dispatch(deleteInvoice(invoiceIdToDelete))
+    dispatch(deleteInvoice(Number(invoiceIdToDelete)))
       .then(unwrapResult)
       .then(() => {
         dispatch(onClose());

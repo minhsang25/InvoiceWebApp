@@ -28,7 +28,7 @@ export const createInvoice = createAsyncThunk(
 
 export const deleteInvoice = createAsyncThunk(
   "invoice/deleteInvoice",
-  async (data: String) => {
+  async (data: number) => {
     const res = await axios.delete(`/api/invoices/${data}`);
     return res.data;
   }

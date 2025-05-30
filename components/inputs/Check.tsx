@@ -6,7 +6,7 @@ import { useRouter, useSearchParams } from "next/navigation";
 import qs from "query-string";
 
 interface CheckProps {
-  id: string;
+  id: number;
   label: string;
   checked: boolean;
 }
@@ -52,16 +52,16 @@ const Input: React.FC<CheckProps> = ({ id, label, checked }) => {
   return (
     <label
       className="relative text-xs font-bold capitalize cursor-pointer text-primary"
-      htmlFor={id}
+      htmlFor={id.toString()}
     >
       <input
         className="absolute w-0 h-0 opacity-0 cursor-pointer peer"
-        id={id}
+        id={id.toString()}
         type="checkbox"
         checked={checked}
         onChange={onChange}
       />
-      <div className="block absolute top-0 left-0 h-4 w-4 bg-[#DFE3FA] dark:bg-[#1E2139] border border-transparent hover:border-[#5d8cfa] rounded transition peer-checked:border-[#5d8cfa] peer-checked:bg-[#5d8cfa]"></div>
+      <div className="block absolute top-0 left-0 h-4 w-4 bg-[#DFE3FA] dark:bg-[#1E2139] border border-transparent hover:border-[#7C5DFA] rounded transition peer-checked:border-[#7C5DFA] peer-checked:bg-[#7C5DFA]"></div>
       <div className="absolute hidden top-[3px] left-[2.5px] peer-checked:block">
         <Check />
       </div>
